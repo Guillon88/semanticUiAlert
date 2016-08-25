@@ -105,7 +105,7 @@ semantic.ready = function() {
       $.api({
         debug : false,
         on    : 'now',
-        url   : '',
+        url   : 'metadata.json',
         cache : 'local',
         onSuccess: function(response) {
           metadata = response;
