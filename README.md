@@ -1,5 +1,5 @@
 # Semantic UI Alert V.1.0
-- Get Started https://diw112.github.io/semanticAlert/
+- Get Started https://diw112.github.io/semanticUiAlert/
 
 # Developer
   - www.facebook.com/diwbnremix
