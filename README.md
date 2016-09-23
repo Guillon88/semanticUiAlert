@@ -2,7 +2,7 @@
 - Get Started https://diw112.github.io/semanticUiAlert/
 
 # Developer
-  - www.facebook.com/diwbnremix
+  - www.facebook.com/AITTHIBN
 
 
 ####################################################
